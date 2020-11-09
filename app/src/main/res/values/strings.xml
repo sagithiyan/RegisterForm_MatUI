@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment01</string>
+
+    <string-array name="names">
+        <item>10-17</item>
+        <item>18-40</item>
+        <item>41-60</item>
+        <item>60-100</item>
+    </string-array>
+</resources>
